@@ -1,0 +1,12 @@
+results of t-test comparing OJ and VC:/n
+	Welch Two Sample t-test
+
+data:  oj and vc
+t = 1.9153, df = 55.309, p-value = 0.06063
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.1710156  7.5710156
+sample estimates:
+mean of x mean of y 
+ 20.66333  16.96333 
+
